@@ -1,0 +1,6 @@
+{
+  "name": "Culture Bridge — 컬처브릿지",
+  "description": "한국 생활 문화와 에티켓을 OX 퀴즈, AI Q&A 챗봇, 주간 문화 웹진으로 쉽고 따뜻하게 배우는 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
